@@ -1,0 +1,207 @@
+Statistiques descriptives pour USAGE_OF_BACKING_FILM
+Effectif   : 202 084
+Moyenne    : 4796.244355
+Minimum    : 29.166667
+Maximum    : 10299.166667
+Ecart-type : 3175.889822
+Quartile 1 : 1917.500000
+Médiane    : 4865.416667
+Quartile 3 : 7480.833333
+
+
+Statistiques descriptives pour USAGE_OF_DRESSER
+Effectif   : 202 084
+Moyenne    : 399.445810
+Minimum    : 5.185185
+Maximum    : 768.888889
+Ecart-type : 234.189513
+Quartile 1 : 166.666667
+Médiane    : 425.925926
+Quartile 3 : 604.814815
+
+
+Statistiques descriptives pour USAGE_OF_POLISHING_TABLE
+Effectif   : 202 084
+Moyenne    : 171.530049
+Minimum    : 0.000000
+Maximum    : 357.037037
+Ecart-type : 92.576311
+Quartile 1 : 90.370370
+Médiane    : 170.370370
+Quartile 3 : 253.333333
+
+
+Statistiques descriptives pour USAGE_OF_DRESSER_TABLE
+Effectif   : 202 084
+Moyenne    : 2887.778387
+Minimum    : 2664.750000
+Maximum    : 3205.750000
+Ecart-type : 146.771640
+Quartile 1 : 2753.500000
+Médiane    : 2890.500000
+Quartile 3 : 2992.000000
+
+
+Statistiques descriptives pour PRESSURIZED_CHAMBER_PRESSURE
+Effectif   : 202 084
+Moyenne    : 53.301020
+Minimum    : 0.000000
+Maximum    : 188.571429
+Ecart-type : 38.756810
+Quartile 1 : 0.000000
+Médiane    : 73.809524
+Quartile 3 : 78.571429
+
+
+Statistiques descriptives pour MAIN_OUTER_AIR_BAG_PRESSURE
+Effectif   : 202 084
+Moyenne    : 165.730573
+Minimum    : 0.000000
+Maximum    : 499.200000
+Ecart-type : 131.584549
+Quartile 1 : 0.000000
+Médiane    : 256.800000
+Quartile 3 : 268.800000
+
+
+Statistiques descriptives pour CENTER_AIR_BAG_PRESSURE
+Effectif   : 202 084
+Moyenne    : 42.837811
+Minimum    : 0.000000
+Maximum    : 138.125000
+Ecart-type : 33.762392
+Quartile 1 : 0.000000
+Médiane    : 65.937500
+Quartile 3 : 72.187500
+
+
+Statistiques descriptives pour RETAINER_RING_PRESSURE
+Effectif   : 202 084
+Moyenne    : 1256.773823
+Minimum    : 0.000000
+Maximum    : 10658.700000
+Ecart-type : 1455.451131
+Quartile 1 : 0.000000
+Médiane    : 1446.900000
+Quartile 3 : 1450.800000
+
+
+Statistiques descriptives pour RIPPLE_AIR_BAG_PRESSURE
+Effectif   : 202 084
+Moyenne    : 6.338217
+Minimum    : 0.000000
+Maximum    : 21.136364
+Ecart-type : 4.963758
+Quartile 1 : 0.000000
+Médiane    : 9.954545
+Quartile 3 : 10.000000
+
+
+Statistiques descriptives pour USAGE_OF_MEMBRANE
+Effectif   : 202 084
+Moyenne    : 56.872467
+Minimum    : 0.345850
+Maximum    : 122.124506
+Ecart-type : 37.658773
+Quartile 1 : 22.737154
+Médiane    : 57.692688
+Quartile 3 : 88.705534
+
+
+Statistiques descriptives pour USAGE_OF_PRESSURIZED_SHEET
+Effectif   : 202 084
+Moyenne    : 1438.873435
+Minimum    : 8.750000
+Maximum    : 3089.750000
+Ecart-type : 952.766961
+Quartile 1 : 575.250000
+Médiane    : 1459.625000
+Quartile 3 : 2244.250000
+
+
+Statistiques descriptives pour SLURRY_FLOW_LINE_A
+Effectif   : 202 084
+Moyenne    : 4.409444
+Minimum    : 0.000000
+Maximum    : 38.333333
+Ecart-type : 6.640168
+Quartile 1 : 2.222222
+Médiane    : 2.222222
+Quartile 3 : 2.222222
+
+
+Statistiques descriptives pour SLURRY_FLOW_LINE_B
+Effectif   : 202 084
+Moyenne    : 0.760229
+Minimum    : 0.000000
+Maximum    : 12.045455
+Ecart-type : 0.391752
+Quartile 1 : 0.909091
+Médiane    : 0.909091
+Quartile 3 : 0.909091
+
+
+Statistiques descriptives pour SLURRY_FLOW_LINE_C
+Effectif   : 202 084
+Moyenne    : 266.341624
+Minimum    : 0.000000
+Maximum    : 1072.400000
+Ecart-type : 211.940081
+Quartile 1 : 0.000000
+Médiane    : 422.800000
+Quartile 3 : 442.400000
+
+
+Statistiques descriptives pour WAFER_ROTATION
+Effectif   : 202 084
+Moyenne    : 4796.198493
+Minimum    : 29.166667
+Maximum    : 10299.166667
+Ecart-type : 3175.891665
+Quartile 1 : 1917.500000
+Médiane    : 4865.000000
+Quartile 3 : 7480.833333
+
+
+Statistiques descriptives pour STAGE_ROTATION
+Effectif   : 202 084
+Moyenne    : 52.929722
+Minimum    : 0.000000
+Maximum    : 263.552632
+Ecart-type : 92.143500
+Quartile 1 : 0.000000
+Médiane    : 0.000000
+Quartile 3 : 66.052632
+
+
+Statistiques descriptives pour HEAD_ROTATION
+Effectif   : 202 084
+Moyenne    : 160.010134
+Minimum    : 118.400000
+Maximum    : 192.000000
+Ecart-type : 6.813327
+Quartile 1 : 156.800000
+Médiane    : 160.000000
+Quartile 3 : 160.000000
+
+
+Statistiques descriptives pour DRESSING_WATER_STATUS
+Effectif   : 202 084
+Moyenne    : 0.430568
+Minimum    : 0.000000
+Maximum    : 1.000000
+Ecart-type : 0.495156
+Quartile 1 : 0.000000
+Médiane    : 0.000000
+Quartile 3 : 1.000000
+
+
+Statistiques descriptives pour EDGE_AIR_BAG_PRESSURE
+Effectif   : 202 084
+Moyenne    : 30.538789
+Minimum    : 0.000000
+Maximum    : 141.515152
+Ecart-type : 24.186933
+Quartile 1 : 0.000000
+Médiane    : 43.939394
+Quartile 3 : 48.484848

@@ -1,0 +1,247 @@
+--- Génération de l'histogramme : USAGE_OF_BACKING_FILM ---
+
+Maximum = 10299.166667
+Minimum = 29.166667
+Pas     = 2054.000000
+
+On obtient les bins suivants :
+[ 29.166667 ; 2083.166667 ] de fréquence 57755 / 202084
+[ 2083.166667 ; 4137.166667 ] de fréquence 33868 / 202084
+[ 4137.166667 ; 6191.166667 ] de fréquence 38884 / 202084
+[ 6191.166667 ; 8245.166667 ] de fréquence 32606 / 202084
+[ 8245.166667 ; 10299.166667 ] de fréquence 38971 / 202084
+
+--- Génération de l'histogramme : USAGE_OF_DRESSER ---
+
+Maximum = 768.888889
+Minimum = 5.185185
+Pas     = 152.740741
+
+On obtient les bins suivants :
+[ 5.185185 ; 157.925926 ] de fréquence 44203 / 202084
+[ 157.925926 ; 310.666667 ] de fréquence 41070 / 202084
+[ 310.666667 ; 463.407407 ] de fréquence 20458 / 202084
+[ 463.407407 ; 616.148148 ] de fréquence 50933 / 202084
+[ 616.148148 ; 768.888889 ] de fréquence 45420 / 202084
+
+--- Génération de l'histogramme : USAGE_OF_POLISHING_TABLE ---
+
+Maximum = 357.037037
+Minimum = 0.000000
+Pas     = 71.407407
+
+On obtient les bins suivants :
+[ 0.000000 ; 71.407407 ] de fréquence 37788 / 202084
+[ 71.407407 ; 142.814815 ] de fréquence 45119 / 202084
+[ 142.814815 ; 214.222222 ] de fréquence 46778 / 202084
+[ 214.222222 ; 285.629630 ] de fréquence 45302 / 202084
+[ 285.629630 ; 357.037037 ] de fréquence 27097 / 202084
+
+--- Génération de l'histogramme : USAGE_OF_DRESSER_TABLE ---
+
+Maximum = 3205.750000
+Minimum = 2664.750000
+Pas     = 108.200000
+
+On obtient les bins suivants :
+[ 2664.750000 ; 2772.950000 ] de fréquence 55983 / 202084
+[ 2772.950000 ; 2881.150000 ] de fréquence 39172 / 202084
+[ 2881.150000 ; 2989.350000 ] de fréquence 55185 / 202084
+[ 2989.350000 ; 3097.550000 ] de fréquence 29129 / 202084
+[ 3097.550000 ; 3205.750000 ] de fréquence 22458 / 202084
+[ 3205.750000 ; 3313.950000 ] de fréquence 157 / 202084
+
+--- Génération de l'histogramme : PRESSURIZED_CHAMBER_PRESSURE ---
+
+Maximum = 188.571429
+Minimum = 0.000000
+Pas     = 37.714286
+
+On obtient les bins suivants :
+[ 0.000000 ; 37.714286 ] de fréquence 68939 / 202084
+[ 37.714286 ; 75.428571 ] de fréquence 53411 / 202084
+[ 75.428571 ; 113.142857 ] de fréquence 74719 / 202084
+[ 113.142857 ; 150.857143 ] de fréquence 4503 / 202084
+[ 150.857143 ; 188.571429 ] de fréquence 512 / 202084
+
+--- Génération de l'histogramme : MAIN_OUTER_AIR_BAG_PRESSURE ---
+
+Maximum = 499.200000
+Minimum = 0.000000
+Pas     = 99.840000
+
+On obtient les bins suivants :
+[ 0.000000 ; 99.840000 ] de fréquence 75821 / 202084
+[ 99.840000 ; 199.680000 ] de fréquence 1893 / 202084
+[ 199.680000 ; 299.520000 ] de fréquence 120228 / 202084
+[ 299.520000 ; 399.360000 ] de fréquence 680 / 202084
+[ 399.360000 ; 499.200000 ] de fréquence 3462 / 202084
+
+--- Génération de l'histogramme : CENTER_AIR_BAG_PRESSURE ---
+
+Maximum = 138.125000
+Minimum = 0.000000
+Pas     = 27.625000
+
+On obtient les bins suivants :
+[ 0.000000 ; 27.625000 ] de fréquence 75876 / 202084
+[ 27.625000 ; 55.250000 ] de fréquence 3760 / 202084
+[ 55.250000 ; 82.875000 ] de fréquence 118063 / 202084
+[ 82.875000 ; 110.500000 ] de fréquence 3680 / 202084
+[ 110.500000 ; 138.125000 ] de fréquence 705 / 202084
+
+--- Génération de l'histogramme : RETAINER_RING_PRESSURE ---
+
+Maximum = 10658.700000
+Minimum = 0.000000
+Pas     = 2131.740000
+
+On obtient les bins suivants :
+[ 0.000000 ; 2131.740000 ] de fréquence 185867 / 202084
+[ 2131.740000 ; 4263.480000 ] de fréquence 6799 / 202084
+[ 4263.480000 ; 6395.220000 ] de fréquence 1355 / 202084
+[ 6395.220000 ; 8526.960000 ] de fréquence 7762 / 202084
+[ 8526.960000 ; 10658.700000 ] de fréquence 301 / 202084
+
+--- Génération de l'histogramme : RIPPLE_AIR_BAG_PRESSURE ---
+
+Maximum = 21.136364
+Minimum = 0.000000
+Pas     = 4.227273
+
+On obtient les bins suivants :
+[ 0.000000 ; 4.227273 ] de fréquence 75486 / 202084
+[ 4.227273 ; 8.454545 ] de fréquence 2667 / 202084
+[ 8.454545 ; 12.681818 ] de fréquence 119696 / 202084
+[ 12.681818 ; 16.909091 ] de fréquence 779 / 202084
+[ 16.909091 ; 21.136364 ] de fréquence 3456 / 202084
+
+--- Génération de l'histogramme : USAGE_OF_MEMBRANE ---
+
+Maximum = 122.124506
+Minimum = 0.345850
+Pas     = 24.355731
+
+On obtient les bins suivants :
+[ 0.345850 ; 24.701581 ] de fréquence 57755 / 202084
+[ 24.701581 ; 49.057312 ] de fréquence 33868 / 202084
+[ 49.057312 ; 73.413043 ] de fréquence 38884 / 202084
+[ 73.413043 ; 97.768775 ] de fréquence 32606 / 202084
+[ 97.768775 ; 122.124506 ] de fréquence 38971 / 202084
+
+--- Génération de l'histogramme : USAGE_OF_PRESSURIZED_SHEET ---
+
+Maximum = 3089.750000
+Minimum = 8.750000
+Pas     = 616.200000
+
+On obtient les bins suivants :
+[ 8.750000 ; 624.950000 ] de fréquence 57755 / 202084
+[ 624.950000 ; 1241.150000 ] de fréquence 33868 / 202084
+[ 1241.150000 ; 1857.350000 ] de fréquence 38884 / 202084
+[ 1857.350000 ; 2473.550000 ] de fréquence 32606 / 202084
+[ 2473.550000 ; 3089.750000 ] de fréquence 38971 / 202084
+
+--- Génération de l'histogramme : SLURRY_FLOW_LINE_A ---
+
+Maximum = 38.333333
+Minimum = 0.000000
+Pas     = 7.666667
+
+On obtient les bins suivants :
+[ 0.000000 ; 7.666667 ] de fréquence 175006 / 202084
+[ 7.666667 ; 15.333333 ] de fréquence 6298 / 202084
+[ 15.333333 ; 23.000000 ] de fréquence 9318 / 202084
+[ 23.000000 ; 30.666667 ] de fréquence 11358 / 202084
+[ 30.666667 ; 38.333333 ] de fréquence 104 / 202084
+
+--- Génération de l'histogramme : SLURRY_FLOW_LINE_B ---
+
+Maximum = 12.045455
+Minimum = 0.000000
+Pas     = 2.409091
+
+On obtient les bins suivants :
+[ 0.000000 ; 2.409091 ] de fréquence 201957 / 202084
+[ 2.409091 ; 4.818182 ] de fréquence 34 / 202084
+[ 4.818182 ; 7.227273 ] de fréquence 20 / 202084
+[ 7.227273 ; 9.636364 ] de fréquence 22 / 202084
+[ 9.636364 ; 12.045455 ] de fréquence 51 / 202084
+
+--- Génération de l'histogramme : SLURRY_FLOW_LINE_C ---
+
+Maximum = 1072.400000
+Minimum = 0.000000
+Pas     = 214.480000
+
+On obtient les bins suivants :
+[ 0.000000 ; 214.480000 ] de fréquence 80147 / 202084
+[ 214.480000 ; 428.960000 ] de fréquence 28232 / 202084
+[ 428.960000 ; 643.440000 ] de fréquence 93352 / 202084
+[ 643.440000 ; 857.920000 ] de fréquence 225 / 202084
+[ 857.920000 ; 1072.400000 ] de fréquence 128 / 202084
+
+--- Génération de l'histogramme : WAFER_ROTATION ---
+
+Maximum = 10299.166667
+Minimum = 29.166667
+Pas     = 2054.000000
+
+On obtient les bins suivants :
+[ 29.166667 ; 2083.166667 ] de fréquence 57756 / 202084
+[ 2083.166667 ; 4137.166667 ] de fréquence 33868 / 202084
+[ 4137.166667 ; 6191.166667 ] de fréquence 38884 / 202084
+[ 6191.166667 ; 8245.166667 ] de fréquence 32606 / 202084
+[ 8245.166667 ; 10299.166667 ] de fréquence 38970 / 202084
+
+--- Génération de l'histogramme : STAGE_ROTATION ---
+
+Maximum = 263.552632
+Minimum = 0.000000
+Pas     = 52.710526
+
+On obtient les bins suivants :
+[ 0.000000 ; 52.710526 ] de fréquence 144016 / 202084
+[ 52.710526 ; 105.421053 ] de fréquence 10902 / 202084
+[ 105.421053 ; 158.131579 ] de fréquence 12320 / 202084
+[ 158.131579 ; 210.842105 ] de fréquence 12363 / 202084
+[ 210.842105 ; 263.552632 ] de fréquence 22483 / 202084
+
+--- Génération de l'histogramme : HEAD_ROTATION ---
+
+Maximum = 192.000000
+Minimum = 118.400000
+Pas     = 14.720000
+
+On obtient les bins suivants :
+[ 118.400000 ; 133.120000 ] de fréquence 7 / 202084
+[ 133.120000 ; 147.840000 ] de fréquence 0 / 202084
+[ 147.840000 ; 162.560000 ] de fréquence 188153 / 202084
+[ 162.560000 ; 177.280000 ] de fréquence 4568 / 202084
+[ 177.280000 ; 192.000000 ] de fréquence 9356 / 202084
+
+--- Génération de l'histogramme : DRESSING_WATER_STATUS ---
+
+Maximum = 1.000000
+Minimum = 0.000000
+Pas     = 0.200000
+
+On obtient les bins suivants :
+[ 0.000000 ; 0.200000 ] de fréquence 115073 / 202084
+[ 0.200000 ; 0.400000 ] de fréquence 0 / 202084
+[ 0.400000 ; 0.600000 ] de fréquence 0 / 202084
+[ 0.600000 ; 0.800000 ] de fréquence 0 / 202084
+[ 0.800000 ; 1.000000 ] de fréquence 87011 / 202084
+
+--- Génération de l'histogramme : EDGE_AIR_BAG_PRESSURE ---
+
+Maximum = 141.515152
+Minimum = 0.000000
+Pas     = 28.303030
+
+On obtient les bins suivants :
+[ 0.000000 ; 28.303030 ] de fréquence 76325 / 202084
+[ 28.303030 ; 56.606061 ] de fréquence 108222 / 202084
+[ 56.606061 ; 84.909091 ] de fréquence 16831 / 202084
+[ 84.909091 ; 113.212121 ] de fréquence 280 / 202084
+[ 113.212121 ; 141.515152 ] de fréquence 426 / 202084  

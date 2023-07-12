@@ -1,0 +1,65 @@
+--- Génération de l'histogramme : USAGE_OF_BACKING_FILM ---
+
+Maximum = 10299.166667
+Minimum = 29.166667
+Pas     = 2054.000000
+
+On obtient les bins suivants :
+[29.166667;2083.166667] de fréquence 57755 / 202084
+[2083.166667;4137.166667] de fréquence 33868 / 202084
+[4137.166667;6191.166667] de fréquence 38884 / 202084
+[6191.166667;8245.166667] de fréquence 32606 / 202084
+[8245.166667;10299.166667] de fréquence 27524 / 202084
+
+--- Génération de l'histogramme : USAGE_OF_DRESSER ---
+
+Maximum = 768.888889
+Minimum = 5.185185
+Pas     = 152.740741
+
+On obtient les bins suivants :
+[5.185185;157.925926] de fréquence 44203 / 202084
+[157.925926;310.666667] de fréquence 41070 / 202084
+[310.666667;463.407407] de fréquence 20458 / 202084
+[463.407407;616.148148] de fréquence 50933 / 202084
+[616.148148;768.888889] de fréquence 36976 / 202084
+
+--- Génération de l'histogramme : USAGE_OF_POLISHING_TABLE ---
+
+Maximum = 357.037037
+Minimum = 0.000000
+Pas     = 71.407407
+
+On obtient les bins suivants :
+[0.000000;71.407407] de fréquence 37785 / 202084
+[71.407407;142.814815] de fréquence 45118 / 202084
+[142.814815;214.222222] de fréquence 46775 / 202084
+[214.222222;285.629630] de fréquence 42461 / 202084
+[285.629630;357.037037] de fréquence 13558 / 202084
+
+--- Génération de l'histogramme : USAGE_OF_DRESSER_TABLE ---
+
+Maximum = 3205.750000
+Minimum = 2664.750000
+Pas     = 108.200000
+
+On obtient les bins suivants :
+[2664.750000;2772.950000] de fréquence 27991 / 202084
+[2772.950000;2881.150000] de fréquence 19586 / 202084
+[2881.150000;2989.350000] de fréquence 27593 / 202084
+[2989.350000;3097.550000] de fréquence 14564 / 202084
+[3097.550000;3205.750000] de fréquence 11229 / 202084
+[3205.750000;3313.950000] de fréquence 79 / 202084
+
+--- Génération de l'histogramme : PRESSURIZED_CHAMBER_PRESSURE ---
+
+Maximum = 188.571429
+Minimum = 0.000000
+Pas     = 37.714286
+
+On obtient les bins suivants :
+[0.000000;37.714286] de fréquence 68939 / 202084
+[37.714286;75.428571] de fréquence 53410 / 202084
+[75.428571;113.142857] de fréquence 74719 / 202084
+[113.142857;150.857143] de fréquence 4502 / 202084
+[150.857143;188.571429] de fréquence 512 / 202084

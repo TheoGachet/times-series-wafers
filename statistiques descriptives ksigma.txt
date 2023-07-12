@@ -1,0 +1,11 @@
+Statistiques descriptives pour USAGE_OF_BACKING_FILM
+Effectif   : 190 638
+Moyenne    : 4487.995060
+Minimum    : 29.166667
+Maximum    : 10299.166667
+Ecart-type : 3001.974340
+Quartile 1 : 1767.083333
+Médiane    : 4529.166667
+Quartile 3 : 7079.166667
+
+etc.
