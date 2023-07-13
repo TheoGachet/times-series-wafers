@@ -1,4 +1,5 @@
 Report EL MAMOUN-GACHET.pdf             : rapport du projet en réponse à l'énoncé
+Presentation EL MAMOUN-GACHET           : support utilisé lors de la soutenance devant les professeurs
 Sujet.pdf                               : énoncé fourni en classe d'Algorithmique et Programmation
 
 (dossier) data_trié                     : contient 19 fichiers .csv qui contiennent respectivement les données des 19 séries temporelles triées
