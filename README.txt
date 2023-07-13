@@ -1,3 +1,6 @@
+Report EL MAMOUN-GACHET.pdf             : rapport du projet en réponse à l'énoncé
+Sujet.pdf                               : énoncé fourni en classe d'Algorithmique et Programmation
+
 (dossier) data_trié                     : contient 19 fichiers .csv qui contiennent respectivement les données des 19 séries temporelles triées
 (dossier) dataset                       : contient tous les fichiers fournis par l'énoncé (CMP-training-0xx.csv)
 (dossier) histogrammes_tracés           : contient les histogrammes calculés à la question 3 pour les 19 séries temporelles
