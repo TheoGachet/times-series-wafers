@@ -1,6 +1,6 @@
 # Project EL MAMOUN-GACHET - 2022
 
-This project is a collaborative work between Kawtar El Mamoun and Théo Gachet. Our objective was to develop an application in C for preprocessing the provided time series data to predict and better explain the evolution of the target characteristic (i.e., the average rate of surface material removal) using historical data. Please note that this project was coded overnight, so there might be a few optimization errors in the code.
+This project is a collaborative work between Kawtar El Mamoun and myself (Théo Gachet). Our objective was to develop an application in C for preprocessing the provided time series data to predict and better explain the evolution of the target characteristic (i.e., the average rate of surface material removal) using historical data. Please note that this project was coded overnight, so there might be a few optimization errors in the code.
 
 ## Objectives and Functionalities
 
